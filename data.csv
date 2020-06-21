@@ -1,0 +1,225 @@
+2020-05-18,Theory Of Computation,DFA
+2020-05-19,Theory Of Computation,DFA
+2020-05-20,Theory Of Computation,DFA + NFA
+2020-05-21,Theory Of Computation,[Revision DFA] [Revision NFA] + Minimisation of DFA
+2020-05-22,Theory Of Computation,Moore and Mealy + [Revision Minimisation of DFA] [Revision Moore and Mealy]
+2020-05-23,Theory Of Computation,Epsilon NFA + Families of Formal Languages
+2020-05-24,Theory Of Computation,[Revision Epsilon NFA] [Revision Families of Formal Languages] + Regular Expressions and Conversions
+2020-05-25,Theory Of Computation,Testing whether a language is regular + [Revision Regular Expressions and Conversions] [Revision Testing whether a language is regular]
+2020-05-26,Theory Of Computation,Grammars
+2020-05-27,Theory Of Computation,Grammars + PDA
+2020-05-28,Theory Of Computation,PDA + [Revision Grammars] [Revision PDA]
+2020-05-29,Theory Of Computation,Testing weather language is context free language + Turing machines
+2020-05-30,Theory Of Computation,Turing machines + [Revision Testing weather language is context free language] [Revision Turing machines]
+2020-05-31,Theory Of Computation,Countability + Computability and decidability
+2020-06-01,Theory Of Computation,Computability and decidability + [Revision Countability] [Revision Computability and decidability]
+2020-06-02,Theory Of Computation,Properties of CFL's + Properties of Regular Languages
+2020-06-03,Theory Of Computation,[Revision Properties of CFL's] [Revision Properties of Regular Languages] + Decidable problems on Regular Languages
+2020-06-04,Theory Of Computation,Revision Theory Of Computation
+2020-06-05,Theory Of Computation,Revision Practice Questions - Theory Of Computation
+2020-06-06,Theory Of Computation,Revision Practice Questions - Theory Of Computation
+2020-06-07,Compiler Design,Introduction To Compiler Design + Parsers
+2020-06-08,Compiler Design,Parsers
+2020-06-09,Compiler Design,Parsers + [Revision Introduction To Compiler Design] [Revision Parsers]
+2020-06-10,Compiler Design,[Revision Introduction To Compiler Design] [Revision Parsers] + Syntax Directed Translation
+2020-06-11,Compiler Design,Intermediate code generation + [Revision Syntax Directed Translation] [Revision Intermediate code generation]
+2020-06-12,Compiler Design,Runtime Environments + Code optimisation
+2020-06-13,Compiler Design,Revision Compiler Design
+2020-06-14,Compiler Design,Revision Practice Questions - Compiler Design
+2020-06-15,Compiler Design,Revision Practice Questions - Compiler Design
+2020-06-16,Programming And Data Structures,"Introduction To C + Types, Operators and Expressions"
+2020-06-17,Programming And Data Structures,"[Revision Introduction To C] [Revision Types, Operators and Expressions] + Flow Control"
+2020-06-18,Programming And Data Structures,Functions + [Revision Flow Control] [Revision Functions]                
+2020-06-19,Programming And Data Structures,Pointers in C
+2020-06-20,Programming And Data Structures,Pointers in C + Arrays
+2020-06-21,Programming And Data Structures,[Revision Pointers in C] [Revision Arrays]
+2020-06-22,Programming And Data Structures,Storage Classes + [Revision Strings] [Revision Storage Classes]                
+2020-06-23,Programming And Data Structures,Structure and Unions + Input and Output
+2020-06-24,Programming And Data Structures,[Revision Structure and Unions] [Revision Input and Output] + File Input-Output                
+2020-06-25,Programming And Data Structures,Recursion + [Revision File Input-Output] [Revision Recursion]                
+2020-06-26,Programming And Data Structures,[Revision File Input-Output] [Revision Recursion] + Linked list                
+2020-06-27,Programming And Data Structures,Linked list + Stacks and queues
+2020-06-28,Programming And Data Structures,Stacks and queues + [Revision Linked list]
+2020-06-29,Programming And Data Structures,Trees
+2020-06-30,Programming And Data Structures,Trees
+2020-07-01,Programming And Data Structures,Trees
+2020-07-02,Programming And Data Structures,Trees + Graphs
+2020-07-03,Programming And Data Structures,Graphs + [Revision Trees] [Revision Graphs]                
+2020-07-04,Programming And Data Structures,Hashing
+2020-07-05,Programming And Data Structures,Hashing + Hashing
+2020-07-06,Programming And Data Structures,Revision Programming And Data Structures
+2020-07-07,Programming And Data Structures,Revision Practice Questions - Programming And Data Structures
+2020-07-08,Programming And Data Structures,Revision Practice Questions - Programming And Data Structures
+2020-07-09,Algorithms,Time and Space analysis
+2020-07-10,Algorithms,Time and Space analysis + Searching Algorithms
+2020-07-11,Algorithms,[Revision Time and Space analysis] [Revision Searching Algorithms]
+2020-07-12,Algorithms,Sorting Techniques
+2020-07-13,Algorithms,Sorting Techniques + Greedy Algorithms
+2020-07-14,Algorithms,Greedy Algorithms
+2020-07-15,Algorithms,Greedy Algorithms
+2020-07-16,Algorithms,Greedy Algorithms + [Revision Sorting Techniques] [Revision Greedy Algorithms]
+2020-07-17,Algorithms,Dijkstra Algorithm + Bellman-ford Algorithm
+2020-07-18,Algorithms,[Revision Dijkstra Algorithm] [Revision Bellman-ford Algorithm] + Shortest paths in DAGs
+2020-07-19,Algorithms,Dynamic programming + [Revision Shortest paths in DAGs] [Revision Dynamic programming]
+2020-07-20,Algorithms,Matrix chain multiplication + Longest common subsequence
+2020-07-21,Algorithms,Longest common subsequence + [Revision Matrix chain multiplication] [Revision Longest common subsequence]
+2020-07-22,Algorithms,Multi stage graph + 0-1 Knapsack
+2020-07-23,Algorithms,[Revision Multi stage graph] [Revision 0-1 Knapsack]
+2020-07-24,Algorithms,Travelling salesman problem + [Revision Subset sum] [Revision Travelling salesman problem]        
+2020-07-25,Algorithms,All pairs shortest path - Floyd Warshall + All Paris Shortest Path
+2020-07-26,Algorithms,Revision Algorithms
+2020-07-27,Algorithms,Revision Practice Questions - Algorithms
+2020-07-28,Algorithms,Revision Practice Questions - Algorithms
+2020-07-29,Operating Systems,Process Management
+2020-07-30,Operating Systems,Process Management
+2020-07-31,Operating Systems,Process Management + Process Synchronization
+2020-08-01,Operating Systems,Process Synchronization
+2020-08-02,Operating Systems,Process Synchronization
+2020-08-03,Operating Systems,Process Synchronization + [Revision Process Management] [Revision Process Synchronization]
+2020-08-04,Operating Systems,Dead Locks
+2020-08-05,Operating Systems,Dead Locks + Memory Management
+2020-08-06,Operating Systems,Memory Management
+2020-08-07,Operating Systems,Memory Management
+2020-08-08,Operating Systems,Memory Management
+2020-08-09,Operating Systems,Memory Management
+2020-08-10,Operating Systems,Memory Management
+2020-08-11,Operating Systems,Memory Management + [Revision Dead Locks] [Revision Memory Management]
+2020-08-12,Operating Systems,[Revision Dead Locks] [Revision Memory Management] + File system IO and protection
+2020-08-13,Operating Systems,File system IO and protection
+2020-08-14,Operating Systems,File system IO and protection + Threads and system calls
+2020-08-15,Operating Systems,Revision Operating Systems
+2020-08-16,Operating Systems,Revision Operating Systems
+2020-08-17,Operating Systems,Revision Practice Questions - Operating Systems
+2020-08-18,Operating Systems,Revision Practice Questions - Operating Systems
+2020-08-19,DBMS,ER Model + Relational Database Model
+2020-08-20,DBMS,Relational Database Model + [Revision ER Model] [Revision Relational Database Model]
+2020-08-21,DBMS,Conversion of ER model to Relational model + Normalisation
+2020-08-22,DBMS,Normalisation
+2020-08-23,DBMS,Normalisation
+2020-08-24,DBMS,Normalisation
+2020-08-25,DBMS,Normalisation + [Revision Conversion of ER model to Relational model] [Revision Normalisation]
+2020-08-26,DBMS,[Revision Conversion of ER model to Relational model] [Revision Normalisation] + Relational Algebra
+2020-08-27,DBMS,Relational Algebra
+2020-08-28,DBMS,Relational Algebra
+2020-08-29,DBMS,Relational Algebra + SQL
+2020-08-30,DBMS,SQL
+2020-08-31,DBMS,SQL + [Revision Relational Algebra] [Revision SQL]
+2020-09-01,DBMS,[Revision Relational Algebra] [Revision SQL] + Transaction management and concurrency control
+2020-09-02,DBMS,Transaction management and concurrency control
+2020-09-03,DBMS,Transaction management and concurrency control + File structures
+2020-09-04,DBMS,File structures
+2020-09-05,DBMS,Revision DBMS
+2020-09-06,DBMS,Revision DBMS
+2020-09-07,DBMS,Revision Practice Questions - DBMS
+2020-09-08,DBMS,Revision Practice Questions - DBMS
+2020-09-09,Computer Networks,IP address Subnetting Supernetting
+2020-09-10,Computer Networks,IP address Subnetting Supernetting + Flow Control methods
+2020-09-11,Computer Networks,Flow Control methods
+2020-09-12,Computer Networks,Flow Control methods
+2020-09-13,Computer Networks,Flow Control methods + [Revision IP address Subnetting Supernetting] [Revision Flow Control methods]
+2020-09-14,Computer Networks,Error Control methods + ISO-OSI Stack
+2020-09-15,Computer Networks,ISO-OSI Stack + [Revision Error Control methods] [Revision ISO-OSI Stack]
+2020-09-16,Computer Networks,LAN Technologies + Switching
+2020-09-17,Computer Networks,Switching + [Revision LAN Technologies] [Revision Switching]
+2020-09-18,Computer Networks,Internet Protocol + Fragmentation
+2020-09-19,Computer Networks,Fragmentation + [Revision Internet Protocol] [Revision Fragmentation]
+2020-09-20,Computer Networks,Protocols and Concepts at Network Layer
+2020-09-21,Computer Networks,Protocols and Concepts at Network Layer + Routing
+2020-09-22,Computer Networks,[Revision Protocols and Concepts at Network Layer] [Revision Routing] + TCP
+2020-09-23,Computer Networks,TCP
+2020-09-24,Computer Networks,TCP + UDP
+2020-09-25,Computer Networks,[Revision TCP] [Revision UDP] + Hardware and various devices used in networking
+2020-09-26,Computer Networks,Hardware and various devices used in networking + Application Layer Protocols
+2020-09-27,Computer Networks,[Revision Hardware and various devices used in networking] [Revision Application Layer Protocols] + IPV6 and Wifi
+2020-09-28,Computer Networks,IPV6 and Wifi
+2020-09-29,Computer Networks,IPV6 and Wifi + Problems on IP addressing
+2020-09-30,Computer Networks,[Revision IPV6 and Wifi] [Revision Problems on IP addressing] + Problems on sliding window protocol
+2020-10-01,Computer Networks,Problems on LAN technologies
+2020-10-02,Computer Networks,Problems on LAN technologies + [Revision Problems on sliding window protocol] [Revision Problems on LAN technologies]
+2020-10-03,Computer Networks,TCP-IP problems + Network Security
+2020-10-04,Computer Networks,Revision Computer Networks
+2020-10-05,Computer Networks,Revision Computer Networks
+2020-10-06,Computer Networks,Revision Practice Questions - Computer Networks
+2020-10-07,Computer Networks,Revision Practice Questions - Computer Networks
+2020-10-08,Engineering Mathematics,limits + Continuity and Differentiability
+2020-10-09,Engineering Mathematics,Continuity and Differentiability + [Revision limits] [Revision Continuity and Differentiability]
+2020-10-10,Engineering Mathematics,Mean value theorems + Maxima and Minima
+2020-10-11,Engineering Mathematics,[Revision Mean value theorems] [Revision Maxima and Minima] + Integrations
+2020-10-12,Engineering Mathematics,Introduction to propositional calculus
+2020-10-13,Engineering Mathematics,"Introduction to propositional calculus + [Revision Integrations] [Revision Introduction to propositional calculus]
+"
+2020-10-14,Engineering Mathematics,[Revision Integrations] [Revision Introduction to propositional calculus] + Sets
+2020-10-15,Engineering Mathematics,Relations
+2020-10-16,Engineering Mathematics,Relations
+2020-10-17,Engineering Mathematics,Relations + [Revision Sets] [Revision Relations]
+2020-10-18,Engineering Mathematics,Functions + Partial orders and Lattices
+2020-10-19,Engineering Mathematics,Partial orders and Lattices + [Revision Functions] [Revision Partial orders and Lattices]
+2020-10-20,Engineering Mathematics,[Revision Functions] [Revision Partial orders and Lattices] + Groups
+2020-10-21,Engineering Mathematics,Groups + Graph Theory
+2020-10-22,Engineering Mathematics,Graph Theory
+2020-10-23,Engineering Mathematics,Graph Theory + [Revision Groups] [Revision Graph Theory]
+2020-10-24,Engineering Mathematics,[Revision Groups] [Revision Graph Theory]
+2020-10-25,Engineering Mathematics,Algebra of matrices
+2020-10-26,Engineering Mathematics,Algebra of matrices + [Revision Combinatorics] [Revision Algebra of matrices]
+2020-10-27,Engineering Mathematics,Determinants
+2020-10-28,Engineering Mathematics,Determinants + Multiplication of Determinants
+2020-10-29,Engineering Mathematics,[Revision Determinants] [Revision Multiplication of Determinants] + Cramers Rule
+2020-10-30,Engineering Mathematics,Inverse Of a matrix + [Revision Cramers Rule] [Revision Inverse Of a matrix]
+2020-10-31,Engineering Mathematics,Rank of a martix + System of linear homogenous equations
+2020-11-01,Engineering Mathematics,System of linear homogenous equations + [Revision Rank of a martix] [Revision System of linear homogenous equations]
+2020-11-02,Engineering Mathematics,System of linear non-homogeneous equations + Eigen values and vectors
+2020-11-03,Engineering Mathematics,Eigen values and vectors + [Revision System of linear non-homogeneous equations] [Revision Eigen values and vectors]
+2020-11-04,Engineering Mathematics,Introduction To Probability + Conditional Probability
+2020-11-05,Engineering Mathematics,[Revision Introduction To Probability] [Revision Conditional Probability] + Multiplication Theorem
+2020-11-06,Engineering Mathematics,Independent Events + [Revision Multiplication Theorem] [Revision Independent Events]
+2020-11-07,Engineering Mathematics,Total Probability + Baye's Theorem
+2020-11-08,Engineering Mathematics,[Revision Total Probability] [Revision Baye's Theorem]
+2020-11-09,Engineering Mathematics,Expectation + [Revision Random Variables] [Revision Expectation]        
+2020-11-10,Engineering Mathematics,Revision Engineering Mathematics
+2020-11-11,Engineering Mathematics,Revision Engineering Mathematics
+2020-11-12,Engineering Mathematics,Revision Practice Questions - Engineering Mathematics
+2020-11-13,Engineering Mathematics,Revision Practice Questions - Engineering Mathematics
+2020-11-14,Digital Logic Design,Logic functions
+2020-11-15,Digital Logic Design,Logic functions + Minimization
+2020-11-16,Digital Logic Design,Minimization
+2020-11-17,Digital Logic Design,Minimization
+2020-11-18,Digital Logic Design,Minimization + [Revision Logic functions] [Revision Minimization]
+2020-11-19,Digital Logic Design,[Revision Logic functions] [Revision Minimization] + Design and Synthesis of Combinational circuits
+2020-11-20,Digital Logic Design,Design and Synthesis of Combinational circuits
+2020-11-21,Digital Logic Design,Design and Synthesis of Combinational circuits
+2020-11-22,Digital Logic Design,Design and Synthesis of Combinational circuits + Sequential Circuits
+2020-11-23,Digital Logic Design,Sequential Circuits
+2020-11-24,Digital Logic Design,Sequential Circuits
+2020-11-25,Digital Logic Design,Sequential Circuits + [Revision Design and Synthesis of Combinational circuits] [Revision Sequential Circuits]
+2020-11-26,Digital Logic Design,[Revision Design and Synthesis of Combinational circuits] [Revision Sequential Circuits] + Number system
+2020-11-27,Digital Logic Design,Number system
+2020-11-28,Digital Logic Design,Number system
+2020-11-29,Digital Logic Design,Number system
+2020-11-30,Digital Logic Design,Revision Digital Logic Design
+2020-12-01,Digital Logic Design,Revision Digital Logic Design
+2020-12-02,Digital Logic Design,Revision Practice Questions - Digital Logic Design
+2020-12-03,Digital Logic Design,Revision Practice Questions - Digital Logic Design
+2020-12-04,Computer Organization,Cache Memory
+2020-12-05,Computer Organization,Cache Memory + Memory Interfacing
+2020-12-06,Computer Organization,Memory Interfacing + [Revision Cache Memory] [Revision Memory Interfacing]
+2020-12-07,Computer Organization,[Revision Cache Memory] [Revision Memory Interfacing] + Secondary memory
+2020-12-08,Computer Organization,Machine instructions and Addressing modes
+2020-12-09,Computer Organization,Machine instructions and Addressing modes + [Revision Secondary memory] [Revision Machine instructions and Addressing modes]
+2020-12-10,Computer Organization,"ALU,Data Path & Control Unit"
+2020-12-11,Computer Organization,"ALU,Data Path & Control Unit + IO Interface"
+2020-12-12,Computer Organization,"IO Interface + [Revision ALU,Data Path & Control Unit] [Revision IO Interface]"
+2020-12-13,Computer Organization,Pipelining
+2020-12-14,Computer Organization,Revision Computer Organization
+2020-12-15,Computer Organization,Revision Practice Questions - Computer Organization
+2020-12-16,Computer Organization,Revision Practice Questions - Computer Organization
+2020-12-17,General Aptitude,General Aptitude
+2020-12-18,General Aptitude,General Aptitude
+2020-12-19,General Aptitude,General Aptitude
+2020-12-20,General Aptitude,General Aptitude
+2020-12-21,General Aptitude,General Aptitude
+2020-12-22,General Aptitude,General Aptitude
+2020-12-23,General Aptitude,General Aptitude
+2020-12-24,General Aptitude,General Aptitude
+2020-12-25,General Aptitude,Revision General Aptitude
+2020-12-26,General Aptitude,Revision Practice Questions - General Aptitude
+2020-12-27,General Aptitude,Revision Practice Questions - General Aptitude
