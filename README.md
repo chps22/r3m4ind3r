@@ -10,7 +10,9 @@ To get the remainders on opening terminal, add the following to bashrc and repla
 
 source /home/sunny/r3m4ind3r/script.sh
 
-#Sample Output
+# Sample Output
+
+
 ![image](https://user-images.githubusercontent.com/64414178/85223024-509f8f80-b3dd-11ea-8372-4b7c202a6c01.png)
 
 
