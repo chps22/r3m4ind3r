@@ -1,4 +1,4 @@
-# r3m4ind3r
+# r3mind3r
 This is a simple python cum bash script that I wrote while starting my GATE preparation.
 Data.csv contains topics to be covered on a daily basis.
 
@@ -8,7 +8,7 @@ Execute script.sh for output.
 
 To get the remainders on opening terminal, add the following to bashrc and replace the path with your path
 
-source /home/sunny/r3m4ind3r/script.sh
+source /home/sunny/r3mind3r/script.sh
 
 # Sample Output
 
